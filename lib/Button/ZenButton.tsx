@@ -5,7 +5,7 @@ interface ButtonProps {
 }
 export const Button = ({ children }: ButtonProps): ReactNode => {
   return (
-    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 m-8 rounded">
+    <button className="text-white text-xl bg-black rounded-md px-4 py-2">
       {children}
     </button>
   );

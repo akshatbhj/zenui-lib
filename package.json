@@ -1,6 +1,6 @@
 {
   "name": "zenui-lib",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "files": [
     "dist"
@@ -38,6 +38,7 @@
     "@storybook/addon-links": "^8.2.7",
     "@storybook/addon-onboarding": "^8.2.7",
     "@storybook/blocks": "^8.2.7",
+    "@storybook/builder-vite": "^8.2.7",
     "@storybook/react": "^8.2.7",
     "@storybook/react-vite": "^8.2.7",
     "@storybook/test": "^8.2.7",
