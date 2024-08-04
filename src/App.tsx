@@ -1,4 +1,4 @@
-import { Button } from "../lib/main";
+import { ZenButton as Button } from "../lib/main";
 function App() {
   return (
     <>

@@ -1,13 +1,12 @@
 {
   "name": "zenui-lib",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "type": "module",
   "files": [
     "dist"
   ],
   "main": "./dist/zen-ui.umd.cjs",
   "module": "./dist/zen-ui.js",
-  "types": "./dist/zen-ui.d.ts",
   "exports": {
     ".": {
       "import": "./dist/zen-ui.js",
