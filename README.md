@@ -1,7 +1,3 @@
-Here's a draft for your `README.md` file:
-
----
-
 # ZenUI - Minimal & Elegant React UI Library
 
 ZenUI is a minimalistic and elegant UI component library designed for React. It aims to simplify the development process while maintaining a high level of customization and usability. ZenUI is perfect for developers, learners, and tech enthusiasts who want to build sleek and modern user interfaces with ease.
@@ -32,8 +28,8 @@ yarn add zenui-lib
 Here’s a simple example of how to use a ZenUI component in your project:
 
 ```jsx
-import React from 'react';
-import { ZenButton } from 'zenui-lib';
+import React from "react";
+import { ZenButton } from "zenui-lib";
 
 const App = () => {
   return (
@@ -57,5 +53,3 @@ We welcome contributions! If you'd like to contribute to ZenUI, please read our 
 ## License
 
 ZenUI is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-
