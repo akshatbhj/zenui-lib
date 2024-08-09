@@ -2,6 +2,9 @@
 
 ZenUI is a minimalistic and elegant UI component library designed for React. It aims to simplify the development process while maintaining a high level of customization and usability. ZenUI is perfect for developers, learners, and tech enthusiasts who want to build sleek and modern user interfaces with ease.
 
+
+
+
 ## Features
 
 - **Modular Components**: ZenUI offers a wide range of reusable components that can be easily integrated into any React project.
@@ -11,7 +14,9 @@ ZenUI is a minimalistic and elegant UI component library designed for React. It 
 
 ## Installation
 
-To get started with ZenUI, you can install the library via npm:
+To get started with ZenUI, you can install the library via npm: 
+
+![npm version](https://img.shields.io/npm/v/zenui-lib.svg)
 
 ```bash
 npm install zenui-lib
